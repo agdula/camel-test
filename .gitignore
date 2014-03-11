@@ -1,0 +1,7 @@
+# IntelliJ Idea
+.idea
+*.ipr
+*.iws
+**.iml
+*.log
+classes
