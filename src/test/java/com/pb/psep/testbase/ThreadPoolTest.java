@@ -133,10 +133,6 @@ public class ThreadPoolTest {
     public void oneThread() throws Exception {
         testRoute_body();
     }
-    @Test
-    public void twoThread() throws Exception {
-        testRoute_body();
-    }
 
     public void testRoute_body() throws Exception {
 
